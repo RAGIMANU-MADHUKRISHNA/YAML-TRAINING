@@ -1,0 +1,8 @@
+MultilineString: | 
+   YAML is a data serialization language that is often used for writing 
+   configuration files.
+   Depending on whom you ask, 
+   YAML stands for <em>yet another markup language
+   </em> or <em>YAML ain’t markup language</em> (a recursive acronym), 
+   which emphasizes that YAML is for data, not documents.  | >.
+String: Hello World

@@ -1,0 +1,31 @@
+GLOBAL WARMING:
+  SOLUTIONS:
+    Industry&Technology Change
+    Internal Cooperation
+    Carbon Reduction
+  EFFECTS:
+   [Changes in Weather Patterns,Melting icecaps, Rising sea levels]
+  CAUSES:
+    - Green House Effect 
+    - Ozone Depletion
+    - Deforestation
+
+
+PERSON:
+ NAME      : "RAGIMINU MADHUKRISHNA"
+ OCCUPATION: 'Programmer'
+ AGE       : 23
+ GPA       : 8.3
+ MALE      : True
+ Birthday  : 20/07/1997
+ HOBBIES:
+  - Hiking
+  - Movies
+  - Riding Bike
+FRIENDS:
+  - {NAME: "MADHU", AGE: 24}
+  - NAME: "Krishna"
+  - AGE: 25
+  -
+   NAME: RAGIMANU
+   AGE: 23
