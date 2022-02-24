@@ -4,5 +4,5 @@ MultilineString: |
    Depending on whom you ask, 
    YAML stands for <em>yet another markup language
    </em> or <em>YAML ain’t markup language</em> (a recursive acronym), 
-   which emphasizes that YAML is for data, not documents.  | >.
+   which emphasizes that YAML is for data, not document..s.  | >.
 String: Hello World
